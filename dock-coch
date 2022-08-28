@@ -1,0 +1,6 @@
+Advantages of using Docker Containers as Jenkins Build Agents
+Ephemeral 
+Better resource utilization
+Customized agents as it can run different builds like Java 8, Java 11 
+Scalability 
+Let us see how to configure slave nodes dynamically using Docker. If you like to learn how to setup Jenkins Master on Ubuntu EC2 instance, click
